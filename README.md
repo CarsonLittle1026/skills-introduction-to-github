@@ -33,6 +33,8 @@ Here's a recap of your accomplishments:
 
 ### What's next?
 
+** To complete your onboarding to the Smart Factory Believers Tech Team, add your details in the ROSTER.txt **
+
 If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
 
 1. Make a new public repository with a name that matches your GitHub username.
