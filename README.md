@@ -33,7 +33,7 @@ Here's a recap of your accomplishments:
 
 ### What's next?
 
-_To complete your onboarding to the Smart Factory Believers Tech Team, add your details in the ROSTER.txt <link>_
+To complete your onboarding to the Smart Factory Believers Tech Team, add your details in the ROSTER.txt <link>
 
 If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
 
@@ -44,8 +44,6 @@ If you'd like to make a profile README, use the quickstart instructions below or
 5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
 
 Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
